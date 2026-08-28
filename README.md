@@ -15,6 +15,7 @@ IT / Computer Science student passionate about mobile app development and proble
 
 **Programming & Development**
 - Languages: PHP, Python, JavaScript, HTML5, CSS3, SQL
+- Frameworks: React
 - Tools: XAMPP, VS Code, Git
 
 ## Certifications & Training
@@ -41,9 +42,9 @@ IT / Computer Science student passionate about mobile app development and proble
 ## Academic Projects
 
 **Water Billing Management System**
-Web-Based Automated Billing System (Capstone Project)
-- Developed an automated water billing platform to streamline billing, payments, and record management for a local waterworks company.
-- Tech Stack: PHP, HTML/CSS, JavaScript, MySQL
+Mobile & Web-Based Automated Billing System (Capstone Project)
+- Developed a mobile and web-based water billing platform to streamline billing, payments, and record management for a local waterworks company (Lumban Waterworks).
+- Tech Stack: Python,  React Native, HTML/CSS, JavaScript, MySQL, 
 
 **E-Commerce Platform**
 Web-Based Online Store
