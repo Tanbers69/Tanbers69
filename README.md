@@ -1,9 +1,9 @@
 # Hi there, I'm Kristan Burce
 
-IT / Computer Science student passionate about mobile app development and problem-solving through code.
+IT student passionate about mobile app development and problem-solving through code.
 
 ## About Me
-- IT/CS Student at a Philippine university
+- IT Student at a laguna state polytechnic university (SCC)
 - Currently developing a Water Billing Mobile App as our capstone project
 - Working with PHP, Python, XAMPP, and mobile development tools
 - Always learning new technologies
